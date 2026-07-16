@@ -14,3 +14,7 @@ Progressive Web App para notificación y gestión de incidentes en zonas rurales
 ```bash
 git clone https://github.com/cristobal-abarca/alerta-rural.git
 cd alerta-rural
+
+## 🔐 Credenciales de prueba
+- Email: `prueba@test.com`
+- Contraseña: `123456`
